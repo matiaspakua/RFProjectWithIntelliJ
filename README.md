@@ -50,7 +50,7 @@ Teniendo instalado IntelliJ, seguir los siguiente pasos de la web:
 Es posible que requiera, luego del reinicio, la instalación del: "Robot Framework Language Server (by Robocorp)"
 
 ## Screen de Instalación de Plugins:
-![IntelliJ Plugins](resources/images/plugin_configuration.png)
+![IntelliJ Plugins](resources/images/plugin_configuration_updated.png)
 
 
 ## Repositorio del plugin con documentación adicional
