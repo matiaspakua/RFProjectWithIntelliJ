@@ -47,7 +47,7 @@ Teniendo instalado IntelliJ, seguir los siguiente pasos de la web:
 
  * http://ha-phan.vn/rfw5-configure-pycharm-intellij-ide-to-run-robot-frameworks-testsuite-testcase/
 
-
+Es posible que requiera, luego del reinicio, la instalación del: "Robot Framework Language Server (by Robocorp)"
 
 ## Screen de Instalación de Plugins:
 ![IntelliJ Plugins](resources/images/plugin_configuration.png)
